@@ -50,7 +50,7 @@ The `app.py` script implements a web application to predict crowd counts:
 1. Clone this repository:
    ```bash
    git clone https://github.com/rafiaashraf/Crowd_Count.git
-   cd crowd-counting
+   cd Crowd_Count
    ```
 2. Install the required dependencies:
    ```bash
